@@ -37,7 +37,7 @@ Este é um projeto desenvolvido por alunos de uma escola pública em conjunto co
 2. **Navegue até o diretório do projeto:**
 
    ```bash
-   cd nomedorepositorio
+   cd qrcode-matias
    ```
 
 3. **Instale as dependências:**
@@ -75,4 +75,9 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 ## Agradecimentos
 
 Agradecemos a todos os alunos envolvidos no desenvolvimento deste aplicativo e à comunidade Flutter por fornecer excelentes recursos e suporte.
+
+## Screenshot
+<img src="https://github.com/davison-lopes/qrcode-matias/assets/68761780/a8eb7cb3-cd01-474a-81de-f850b47e99e5" width="200"> <img src="https://github.com/davison-lopes/qrcode-matias/assets/68761780/cbde1bff-cc39-4cae-9bd7-db0c6a42f0eb" width="200"> <img src="https://github.com/davison-lopes/qrcode-matias/assets/68761780/63054cb4-1acf-4076-8685-a1ad6919e625" width="200">
+
+
 
